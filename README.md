@@ -21,7 +21,7 @@ quem for avaliar ou dar manutenção no projeto.
 - 📘 [Manual do usuário](docs/manual-do-usuario.md) — como usar o sistema, tela a tela, com screenshots.
 - 🏗️ [Arquitetura e modelo de dados](docs/arquitetura.md) — diagramas de arquitetura, fluxo e banco de dados.
 - 🛠️ [Guia de solução de problemas](docs/guia-solucao-problemas.md) — erros comuns e como resolver.
-- 📽️ [Apresentação final](docs/apresentacao/) — slides e roteiro do vídeo de apresentação.
+- 📽️ **Slides da apresentação final**: [Clique Saúde — Apresentação Final](https://claude.ai/artifact/DbK7W3d7yopWa9rLJ9C6R3) (13 slides, com notas do apresentador) — e o [roteiro/tempo sugerido para o vídeo](docs/apresentacao/roteiro.md).
 - 🔌 **Documentação interativa da API (Swagger/OpenAPI)**: com o back-end
   rodando localmente (`npm run dev` em `clique-saude-api`), acesse
   `http://localhost:3333/api-docs`. Veja como cada endpoint foi documentado
